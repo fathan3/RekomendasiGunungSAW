@@ -7,5 +7,5 @@ Sistem Pendukung Keputusan pemilihan gunung di Jawa Tengah.
 - Manajemen data kriteria dan alternatif gunung.
 
 ## Tech Stack
-- PHP/Python (sesuaikan kodenya)
+- PHP
 - MySQL Database
